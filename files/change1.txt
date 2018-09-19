@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 change2
 
-=======
 change3
->>>>>>> bcee04ce444c7c37913cfb85aa151b2b88110eab
-
-
